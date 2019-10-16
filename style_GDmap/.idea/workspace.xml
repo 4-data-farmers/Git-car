@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="27145b17-31b6-4184-98e6-5d3d6a3fcc34" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RuVyRlceAagfzGmzBefN2UEb0y" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\webstorm_workspace\GDmap" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\webstorm_workspace\GDmap\img" />
+      <recent name="D:\webstorm_workspace\GDmap\css" />
+      <recent name="D:\webstorm_workspace\GDmap\js" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.轨迹回放3.html">
+    <configuration name="轨迹回放3.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GDmap/轨迹回放3.html">
+      <method v="2" />
+    </configuration>
+    <configuration name="轨迹回放.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/GDmap/轨迹回放.html">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.轨迹回放.html" />
+      <item itemvalue="JavaScript Debug.轨迹回放3.html" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.轨迹回放3.html" />
+        <item itemvalue="JavaScript Debug.轨迹回放.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="27145b17-31b6-4184-98e6-5d3d6a3fcc34" name="Default" comment="" />
+      <created>1557392018332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557392018332</updated>
+      <workItem from="1557392019551" duration="1044000" />
+      <workItem from="1557400622497" duration="6825000" />
+      <workItem from="1557451055941" duration="26782000" />
+      <workItem from="1557489813963" duration="1491000" />
+      <workItem from="1557493738390" duration="37000" />
+      <workItem from="1557493981167" duration="1042000" />
+      <workItem from="1557495047726" duration="501000" />
+      <workItem from="1557537867367" duration="647000" />
+      <workItem from="1557546449258" duration="1421000" />
+      <workItem from="1557710587815" duration="239000" />
+      <workItem from="1557814340884" duration="9929000" />
+      <workItem from="1559007426098" duration="266000" />
+      <workItem from="1559008796490" duration="1092000" />
+      <workItem from="1559048687486" duration="821000" />
+      <workItem from="1559092717735" duration="721000" />
+      <workItem from="1559127544099" duration="687000" />
+      <workItem from="1561013233936" duration="10202000" />
+      <workItem from="1561517885424" duration="122000" />
+      <workItem from="1570517226229" duration="2451000" />
+      <workItem from="1570554813652" duration="1128000" />
+      <workItem from="1570686094485" duration="277000" />
+      <workItem from="1570689987744" duration="62000" />
+      <workItem from="1571057282668" duration="500000" />
+      <workItem from="1571146277597" duration="340000" />
+      <workItem from="1571146635312" duration="40000" />
+      <workItem from="1571215077129" duration="979000" />
+      <workItem from="1571218141098" duration="5000000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
